@@ -16,10 +16,10 @@ Sample Rows: 1480 employees.
 Attrition Rate: 16.08%.
 
 ## Tools Used
-- CSV / Excel Data Sources: Used as the primary source files to import raw HR data for analysis.
-- Power BI Desktop: Served as the main platform for creating interactive dashboards and visualizing workforce trends.
-- Power Query: Utilized for cleaning, transforming, and shaping the data before it was loaded into the data model.
-- DAX (Data Analysis Expressions): Employed to create custom measures and calculations for insights like attrition rates and salary averages.
+- **CSV / Excel Data Sources:** Used as the primary source files to import raw HR data for analysis.
+- **Power BI Desktop:** Served as the main platform for creating interactive dashboards and visualizing workforce trends.
+- **Power Query:** Utilized for cleaning, transforming, and shaping the data before it was loaded into the data model.
+- **DAX (Data Analysis Expressions):** Employed to create custom measures and calculations for insights like attrition rates and salary averages.
 
 ## Dashboard Features
 - Attrition by Gender, Age & Education
