@@ -5,14 +5,15 @@ This project features an interactive HR Analytics Dashboard developed using Powe
 
 ## Dataset Description
 The dataset includes the following fields:
-
 - Age, Gender, Education, Department
 - Job Role, Monthly Income, Total Working Years
 - Attrition Status, Job Satisfaction, Performance Rating
 
-- File: [HR_Analytics.csv](https://github.com/Mumo-The-Analyst/HR_Analytics_with_PowerBI/blob/main/HR_Analytics.csv)
-- Sample Rows: 1480 employees
-- Attrition Rate: 16.08%
+File: [HR_Analytics.csv](https://github.com/Mumo-The-Analyst/HR_Analytics_with_PowerBI/blob/main/HR_Analytics.csv)
+
+Sample Rows: 1480 employees.
+
+Attrition Rate: 16.08%.
 
 ## Tools Used
 - CSV / Excel Data Sources: Used as the primary source files to import raw HR data for analysis.
